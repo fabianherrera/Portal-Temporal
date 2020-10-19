@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="220.00000000000003" height="75" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <title>orbis-logo-original-big</title>
+ <g>
+  <title>Layer 1</title>
+  <text stroke="#ffffff" transform="matrix(2.496642350036792,0,0,2.5402863153429482,-113.14095315111243,58.830044444429234) " xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_6" y="-1.264434" x="105.486672" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5000">Orbis</text>
+  <text stroke="#000000" font-weight="bold" transform="matrix(0.66533166773821,0,0,0.24452181802982217,76.11920737142485,61.198319607949614) " xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" id="svg_7" y="19.380602" x="114.661747" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" fill="#ff5000">N  E  T  W  O  R  K</text>
+  <g stroke="null" id="svg_10">
+   <circle stroke="#ffffff" id="svg_1" r="35.505474" cy="36.93249" cx="37.594826" stroke-width="2" fill="#1e1e28"/>
+   <circle stroke="#ffffff" id="svg_3" r="27.29871" cy="46.1378" cx="37.594826" stroke-width="2" fill="#ff5000"/>
+   <circle stroke="#ffffff" id="svg_4" r="18.82218" cy="54.100374" cx="37.594826" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="2" fill="#1e1e28"/>
+  </g>
+ </g>
+</svg>

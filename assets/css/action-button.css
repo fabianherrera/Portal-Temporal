@@ -1,0 +1,107 @@
+/* Action Buttons */
+.action-button {
+  position: fixed;
+  z-index: 1000;
+}
+
+.action-button button {
+  display: block;
+  background-color: transparent;
+  font-size: 18px;
+  width: 36px;
+  height: 36px;
+  line-height: 36px;
+  color: #fff;
+  border-radius: 0px;
+  text-align: center;
+  padding: 0px 0;
+}
+
+.action-button i {
+  /*display: inline;*/
+  font-size: 18px;
+  width: 36px;
+  height: 12px;
+  line-height: 36px;
+  color: #fff;
+  border-radius: 0px;
+  text-align: center;
+  padding: 0px 0;
+  
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+}
+
+.action-button:hover {
+  opacity: 0.8;
+  transition: all 0.3s ease-in-out;
+}
+
+.action-button .dropdown-menu {
+  padding: 0;
+  border-radius: 0;
+  width: 220px;
+  border: none;
+  box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
+
+  -webkit-animation: fadeInUpMenu 0.4s;
+  -moz-animation: fadeInUpMenu 0.4s;
+  -ms-animation: fadeInUpMenu 0.4s;
+  -o-animation: fadeInUpMenu 0.4s;
+  animation: fadeInUpMenu 0.4s;
+}
+
+.action-button .dropdown-item {
+  font-family: 'Open Sans', sans-serif;
+  background: #fff;
+  font-size: 13px;
+  font-weight: 400;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-font-smoothing: subpixel-antialiased;
+  color: #666;
+  line-height: 12px;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  padding: 10px 10px 15px 15px;
+  border-top: 1px solid #e7e3e2;
+}
+
+.action-button .dropdown-item:hover {
+  color: #FF5000;
+}
+
+.action-button .dropdown-menu .dropdown-item i {
+  /*display: inline;*/
+  font-size: 18px;
+  width: 36px;
+  height: 12px;
+  line-height: 36px;
+  color: #000;
+  border-radius: 0px;
+  text-align: center;
+  padding: 0px 0;
+  
+  transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+}
+
+.action-button .dropdown-item.active, .dropdown-item.active:focus, .dropdown-item.active:hover {
+    
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    border: 1px;
+    height:36px;
+    background-color: #FF5000; 
+    border-color: #FF5000;
+    color: #fff;
+    
+}
+
+
